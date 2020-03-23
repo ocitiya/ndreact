@@ -44,7 +44,7 @@ For live build in React.js
 ### `npm run live`
 
 For live build in Node.js<br/>
-**Note: does not affect folder build, public and src
+**Note: does not affect folder build, public and src**
 
 ## Learn More
 
